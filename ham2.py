@@ -1,7 +1,8 @@
 ####################################################
 ####################################################
 ## Author: Ajay Kumar                             ##
-## Sri Aurobindo College,University of Delhi      ##
+## Assistant Professor
+##Sri Aurobindo College,University of Delhi      ##
 ####################################################
 ####################################################
 
